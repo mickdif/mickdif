@@ -1,4 +1,5 @@
 # Ciao! 👋
+Nice to meet you!
 
 Sto lavorando principalmente su 3 cose:
 ## Il progetto di tesi
