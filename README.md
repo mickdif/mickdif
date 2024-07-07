@@ -1,31 +1,19 @@
 # Ciao! 👋
-Nice to meet you!
+Nice to meet you and welcome on my page!
 
-Sto lavorando principalmente su 3 cose:
-## Il progetto di tesi
-Una rete neurale LSTM multivariata per prevedere il prezzo dei titoli in borsa:
-- con Python, Numpy, Pytorch, Matplotlib
-- con Sentiment Analysis degli articoli su Google news
+# Technology I'm using daily
+- C++
+- Qt framework
+- Typescript
+- OpenLayers
+- Canvas API
 
+# Background
+I graduated with 105/110 at Insubria University of Varese 🇮🇹 with a thesis about the use of a LSTM neural model combined with a sentiment analysis to make stock movement predictions.
+Working on the thesis I've used Python with:
+- Numpy
+- Pytorch
+- MatplotLib
+- Pandas
 
-## Blog personale
-A metà tra una scusa per imparare HTML e CSS e un luogo dove salvare articoli e riflessioni trovate online.
-
-## Elaborazione dei dati di OpenStreetMap
-Per creare alcune mappe personalizzate.
-
-
-<!--
-**mickdif/mickdif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spent a year in Madrid 🇪🇸 thank to Erasmus project to study in the Rey Juan Carlos University and learn spanish.
